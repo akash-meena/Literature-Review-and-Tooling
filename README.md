@@ -1,7 +1,5 @@
 # Literature-Review-and-Tooling
 
-Notebook contains code for visualizing tool matplotlib.
+Notebook contains use of Visualization tools
 
-Reference for data 
-
- https://data.gov.in/
+Reference for data : https://data.gov.in/
